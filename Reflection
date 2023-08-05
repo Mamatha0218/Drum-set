@@ -1,0 +1,16 @@
+request5-08-2023 Reflection: 
+today we have learned github microsoft application. it is a management.
+Gitpod.io is a server in github. 
+gitpod is like vs code we can store the codes. 
+And we have learned front end. 
+How the front end  works? 
+the front end will send a API means a request to the middle ware. 
+the middle ware will check the request and send to controller. 
+the controller will takes the data from database  and server. 
+in between the controller and database  driver acts as a bridge. 
+with help of server and data it runs the code. 
+the controller will sends the response to the front end. 
+next we have experienced the test. 
+we wrote operation of databases. difference between gitpot and gitpot. io. 
+And questions. 
+           Thank you
